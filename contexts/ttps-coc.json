@@ -1,0 +1,15 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "type": "@type",
+        "schema": "https://schema.org/",
+        "TtpsCertificateOfCharacter": {
+            "@id": "https://example.gov.tt/contexts/coc-context.json#TtpsCertificateOfCharacter"
+        },
+        "ttpsCocIssuanceId": "schema:identifier",
+        "fullname": "schema:name",
+        "nationalID": "schema:identifier",
+        "issueDate": "schema:dateIssued"
+    }
+}
