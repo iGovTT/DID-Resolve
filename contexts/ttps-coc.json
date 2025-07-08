@@ -5,7 +5,7 @@
         "type": "@type",
         "schema": "https://schema.org/",
         "TtpsCertificateOfCharacter": {
-            "@id": "https://example.gov.tt/contexts/coc-context.json#TtpsCertificateOfCharacter"
+            "@id": "https://github.com/iGovTT/DID-Resolve/edit/main/contexts/ttps-coc.json#TtpsCertificateOfCharacter"
         },
         "ttpsCocIssuanceId": "schema:identifier",
         "fullname": "schema:name",
